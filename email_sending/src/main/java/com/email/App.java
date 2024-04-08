@@ -3,7 +3,7 @@ package com.email;
 public class App {
 	
 public static void main(String[] args) {
-	String to="nitinatole91@gmail.com";
+	String to="nitinatole91@gmail.com,nitinatole2020@gmail.com";
 	
 	String from="nitin.atole70@gmail.com";
 	
